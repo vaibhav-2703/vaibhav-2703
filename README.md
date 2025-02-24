@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Vaibhav](https://github.com/vaibhav-2703)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chouhan-61a78a2a5)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav270)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vaibhav-2703.vaibhav-2703&style=flat-square&color=0088cc)
 
@@ -10,7 +10,7 @@ I have experience in several programming languages and technologies, including J
 
 I'm a tech enthusiast who loves exploring new technologies and solving complex problems. When I'm not coding, you'll find me diving into tech articles, watching YouTube videos, or working on personal projects.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-chouhan-61a78a2a5) for tech discussions or just to say hello!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav270) for tech discussions or just to say hello!
 
 ### Talking about Personal Stuff:
 
@@ -43,12 +43,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-c
 
 ### Things I use to get stuff done:
 
-- **OS:** Windows 11
+- **OS:** Windows 11, Fedora
 - **Laptop:** Asus Vivobook S15 OLED 2022 (i5)
 - **Browser:** Arc and Firefox
 - **Terminal:** Gnome Terminal/Konsole
 - **Code Editor:** VSCode
-- **Other Tools:** Notion
 - **To Stay Updated:** Twitter, Telegram
 
 ### Projects and Dev Stuffs:
